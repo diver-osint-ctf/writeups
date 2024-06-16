@@ -1,5 +1,9 @@
 # DIVER OSINT CTF 公式 Writeups
 
+## Writeups
+
+* [DIVER OSINT CTF 2024](./2024)
+
 ## DIVER OSINT CTFの目標
 
 DIVER OSINT CTFを実施するに当たって、運営チームは大きく3つの目標を設定しています。
