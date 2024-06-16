@@ -60,10 +60,6 @@
 - [mapper](./investigation_request/mapper/README.md)
 - [venue](./investigation_request/venue/README.md)
 
-### welcome
-
-- [welcome](./welcome/welcome/README.md)
-
 ## 統計情報
 
 * user: 873
