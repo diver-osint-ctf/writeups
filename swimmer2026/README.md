@@ -66,6 +66,6 @@
 
 ![Top 10 teams description](./images/Top%2010%20Teams.png)
 
-![Top 25 teams](./images/Top%2025%20Teams.jpeg)
+![Top 25 teams](./images/Top%2025%20teams.jpeg)
 
 ![Solve percentage](./images/Solve%20Percentages%20per%20Challenge.png)
