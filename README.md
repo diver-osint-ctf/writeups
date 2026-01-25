@@ -2,8 +2,9 @@
 
 ## Writeups
 
-- [DIVER OSINT CTF 2024](./2024)
-- [DIVER OSINT CTF 2025](./2025)
+- [DIVER OSINT CTF 2024](./diver2024)
+- [DIVER OSINT CTF 2025](./diver2025)
+- [SWIMMER OSINT CTF 2026](./swimmer2026)
 
 ## DIVER OSINT CTF の目標
 
