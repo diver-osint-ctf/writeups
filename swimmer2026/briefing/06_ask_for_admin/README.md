@@ -35,4 +35,4 @@ Answer with one of `SWIMMER{A}`, `SWIMMER{B}`, `SWIMMER{C}`, or `SWIMMER{D}`.
 > C: 自分が入力した形式や情報が正しいかを確認した上で、自分が送信した内容や根拠を添えて Discordの `#ask-for-admin` チャンネルで問い合わせる。DMは使わない。
 > C: After verifying your format and information, contact Discord `#ask-for-admin` channel (instead of DM) with what you submitted and the supporting evidence.
 
-Flag: **`"SWIMMER{C}`**
+Flag: **`WIMMER{C}`**

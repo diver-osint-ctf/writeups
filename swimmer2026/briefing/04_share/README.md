@@ -41,4 +41,4 @@ Answer with one of `SWIMMER{A}`, `SWIMMER{B}`, `SWIMMER{C}`, or `SWIMMER{D}`.
 > D: 調査は秘密の下で行うものである。競技が終わるまでは、チーム内以外に情報を漏らさないように徹底する。
 > D: Investigations must stay confidential. Until the competition ends, strictly avoid leaking information outside your team.
 
-Flag: **`"SWIMMER{D}`**
+Flag: **`SWIMMER{D}`**

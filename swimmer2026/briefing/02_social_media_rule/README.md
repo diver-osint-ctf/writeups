@@ -50,4 +50,4 @@ After you complete the briefings up through "06", we will provide investigation 
 なお、規約違反はチーム全体での連帯責任となり、状況によってはチーム単位でBANや減点の対象となります。  
 規約はチームメンバー全員に対して周知するようにお願いします。
 
-Flag: **`"SWIMMER{B}`**
+Flag: **`SWIMMER{B}`**

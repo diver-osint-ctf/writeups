@@ -30,4 +30,4 @@ Answer with one of `SWIMMER{A}`, `SWIMMER{B}`, or `SWIMMER{C}`.
 > C: 調査をしていることに感づかれてはならないため、特に指示されない限りは、あらゆる連絡を一切行わない。
 > C: Because they must not realize they are being investigated, do not make any contact unless explicitly instructed.
 
-Flag: **`"SWIMMER{C}`**
+Flag: **`SWIMMER{C}`**

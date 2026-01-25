@@ -38,4 +38,4 @@ Answer with one of `SWIMMER{A}`, `SWIMMER{B}`, or `SWIMMER{C}`.
 > B: AIを使用しても構わない。ただし、出力された情報は提出前に自分で精査する。
 > B: You may use AI, but you must review its output yourself before submitting.
 
-Flag: **`"SWIMMER{B}`**
+Flag: **`SWIMMER{B}`**
