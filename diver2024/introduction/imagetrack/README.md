@@ -1,12 +1,3 @@
----
-title: imagetrack
-description: 
-author: k4r45u
-genre: introduction
-solver: 0 
-point: 0
----
-
 # imagetrack
 
 ## 問題文
